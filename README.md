@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hello, I'm Shubham Sinha  
 
-<!--
-**shubham1957/shubham1957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at VIT Vellore
 
-Here are some ideas to get you started:
+I'm passionate about building robust and scalable applications, with a strong foundation in Java and Spring Boot. I'm always eager to learn new technologies and improve my skills in full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technologies & Tools  
+
+Languages: Java, HTML, CSS, JavaScript  
+
+Frameworks: Spring Boot  
+
+Tools: Postman, IntelliJ IDEA  
+
+📫 How to reach me  
+
+Email: sinhashubham371@gmail.com  
+
+LinkedIn: https://www.linkedin.com/in/shubhamsinhaaa/
