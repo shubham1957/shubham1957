@@ -1,6 +1,7 @@
-<h1 align="center">Hii 👋🏻 , I'm Shubham !</h1>
+<h2 align="center">Hii 👋🏻 , I'm Shubham !</h2>
 
-<h3 align="center">🎓 Master of Computer Applications (MCA)</h3>
+<h5 align="center">🎓 Master of Computer Applications (MCA)</h5>
+<br>
 
 I'm passionate about building robust and scalable applications, with a strong foundation in Java and Spring Boot. I'm always eager to learn new technologies and improve my skills.
 
