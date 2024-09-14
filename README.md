@@ -1,6 +1,6 @@
-## 👋 Hello, I'm Shubham Sinha  
+<h1 align="center">Hii 👋🏻 , I'm Shubham !</h1>
 
-🎓 MCA'25 at VIT Vellore
+<h3 align="center">🎓 Master of Computer Applications (MCA)</h3>
 
 I'm passionate about building robust and scalable applications, with a strong foundation in Java and Spring Boot. I'm always eager to learn new technologies and improve my skills.
 
